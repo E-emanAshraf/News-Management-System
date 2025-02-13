@@ -67,7 +67,7 @@ Configure and build the project.
 
 Execute the compiled binary or run it directly from Qt Creator.
 
-##🔌 Functionalities
+## 🔌 Functionalities
 
 ### 📰 News Management:
 
