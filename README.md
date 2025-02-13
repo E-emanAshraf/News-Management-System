@@ -10,12 +10,13 @@ The News Management System is a C++ application built using Qt GUI. It provides 
 Here are some screenshots of the application in action:
 
 | ![Screenshot (506)](https://github.com/user-attachments/assets/61eb5371-f042-4280-8db3-a5b4b419dda9) | ![Screenshot (498)](https://github.com/user-attachments/assets/af95f2fd-1fdd-4f26-995c-69a5ed02ee29) | ![Screenshot (499)](https://github.com/user-attachments/assets/96a737a7-0bd2-4063-9fe6-1bc3ce1d1b0d)|
+|- | - | - |
 | ![Screenshot (499)](https://github.com/user-attachments/assets/96a737a7-0bd2-4063-9fe6-1bc3ce1d1b0d) | ![Screenshot (500)](https://github.com/user-attachments/assets/672fcaae-c7dd-4d56-bdcd-cd55e4cf2193) |
 | ![Screenshot (501)](https://github.com/user-attachments/assets/d5bae9dd-e3ed-4615-b8c1-16084ee29766) | ![Screenshot (502)](https://github.com/user-attachments/assets/7da6a39d-93a5-4e02-b819-c4d6a83d4c57) |
 | ![Screenshot (503)](https://github.com/user-attachments/assets/608e59b1-07a4-4894-8d7b-38f854421322) | ![Screenshot (504)](https://github.com/user-attachments/assets/1b65228c-cafe-4b86-83ee-13d878fa3cc8) |
 | ![Screenshot (505)](https://github.com/user-attachments/assets/23c33f79-a6e8-4aa8-8abe-87deb865abfb) | ![Screenshot (507)](https://github.com/user-attachments/assets/b0e8112b-b575-41ad-b346-c5e0f2d581cc) |
 | ![Screenshot (508)](https://github.com/user-attachments/assets/90c00b86-8e72-424c-8d99-2938c0d887da) | ![Screenshot (509)](https://github.com/user-attachments/assets/a1cb520b-b76d-427d-8eac-87195b31ed6b) |
-|----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+
 ## ✨ Features
 
 📰 News Management: Admins can add, update, and remove news articles.
