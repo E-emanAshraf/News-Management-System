@@ -55,8 +55,7 @@ Can browse, like, and save articles for later.
 
 📂 Navigate to the Project Directory:
 
-cd news-management-system
-
+```cd news-management-system```
 
 ## 🛠️ Build the Application:
 
