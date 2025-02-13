@@ -51,11 +51,11 @@ Can browse, like, and save articles for later.
 
 ### 📥 Clone the Repository:
 
-git clone https://github.com/your-username/news-management-system.git
+```https://github.com/E-emanAshraf/News-Management-System```
 
 ### 📂 Navigate to the Project Directory:
 
-cd news-management-system
+```cd news-management-system```
 
 ## 🛠️ Build the Application:
 
