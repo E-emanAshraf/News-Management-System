@@ -15,7 +15,6 @@ Here are some screenshots of the application in action:
 | ![Screenshot (502)](https://github.com/user-attachments/assets/7da6a39d-93a5-4e02-b819-c4d6a83d4c57) | ![Screenshot (503)](https://github.com/user-attachments/assets/608e59b1-07a4-4894-8d7b-38f854421322) | ![Screenshot (504)](https://github.com/user-attachments/assets/1b65228c-cafe-4b86-83ee-13d878fa3cc8) |
 | ![Screenshot (505)](https://github.com/user-attachments/assets/23c33f79-a6e8-4aa8-8abe-87deb865abfb) | ![Screenshot (507)](https://github.com/user-attachments/assets/b0e8112b-b575-41ad-b346-c5e0f2d581cc) | ![Screenshot (508)](https://github.com/user-attachments/assets/90c00b86-8e72-424c-8d99-2938c0d887da) |
 | ![Screenshot (509)](https://github.com/user-attachments/assets/a1cb520b-b76d-427d-8eac-87195b31ed6b) |
-|-|
 
 ## ✨ Features
 
