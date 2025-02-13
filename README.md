@@ -9,7 +9,8 @@ The News Management System is a C++ application built using Qt GUI. It provides 
 
 Here are some screenshots of the application in action:
 
-![Screenshot (506)](https://github.com/user-attachments/assets/61eb5371-f042-4280-8db3-a5b4b419dda9)
+![Screenshot (506)](https://github.com/user-attachments/assets/61eb5371-f042-4280-8db3-a5b4b419dda9)   ![Screenshot (498)](https://github.com/user-attachments/assets/af95f2fd-1fdd-4f26-995c-69a5ed02ee29)
+
 
 
 ## ✨ Features
