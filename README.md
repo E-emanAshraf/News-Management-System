@@ -49,13 +49,13 @@ Can browse, like, and save articles for later.
 
 ## ⚙️ Installation and Setup
 
-📥 Clone the Repository:
+### 📥 Clone the Repository:
 
-```https://github.com/E-emanAshraf/News-Management-System```
+git clone https://github.com/your-username/news-management-system.git
 
-📂 Navigate to the Project Directory:
+### 📂 Navigate to the Project Directory:
 
-```cd news-management-system```
+cd news-management-system
 
 ## 🛠️ Build the Application:
 
